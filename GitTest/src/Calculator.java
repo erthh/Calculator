@@ -21,5 +21,8 @@ public class Calculator {
 		public static double minus(int x , int y){
 			return x-y;
 		}
+		public static double multiply(int x , int y){
+			return x*y;
+		}
 		
 }
