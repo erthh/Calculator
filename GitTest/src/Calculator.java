@@ -3,11 +3,13 @@ import java.util.*;
 
 public class Calculator {
 		public static void main(String [] args){
+			
+			
 			Scanner input =new Scanner(System.in);
 			
-			System.out.println("input A : ");
+			System.out.println("input num1 : ");
 			int a = input.nextInt();
-			System.out.println("input B : ");
+			System.out.println("input num2 : ");
 			int b = input.nextInt();
 			
 			System.out.println("A+b =  ");
