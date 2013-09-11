@@ -8,7 +8,8 @@ public class Calculator {
 			Scanner input =new Scanner(System.in);
 			
 			
-			System.out.println("Push Pull dai la sard");
+			//System.out.println("Push Pull dai la sard");
+			System.out.println("UI branch");
 			
 			System.out.println("NNNum1 : ");
 			int a = input.nextInt();
