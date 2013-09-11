@@ -7,9 +7,9 @@ public class Calculator {
 			
 			Scanner input =new Scanner(System.in);
 			
-			System.out.println("input num1 : ");
+			System.out.println("num1 : ");
 			int a = input.nextInt();
-			System.out.println("input num2 : ");
+			System.out.println("num2 : ");
 			int b = input.nextInt();
 			
 			System.out.println("A+b =  ");
