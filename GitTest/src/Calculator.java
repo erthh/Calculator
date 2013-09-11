@@ -10,9 +10,9 @@ public class Calculator {
 			
 			System.out.println("Push Pull dai la sard");
 			
-			System.out.println("Num1 : ");
+			System.out.println("NNNum1 : ");
 			int a = input.nextInt();
-			System.out.println("Num2 : ");
+			System.out.println("NNNum2 : ");
 			int b = input.nextInt();
 			
 			System.out.println("A+b =  ");
