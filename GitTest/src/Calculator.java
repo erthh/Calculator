@@ -7,6 +7,9 @@ public class Calculator {
 			
 			Scanner input =new Scanner(System.in);
 			
+			
+			System.out.println("Push Pull dai la sard");
+			
 			System.out.println("Num1 : ");
 			int a = input.nextInt();
 			System.out.println("Num2 : ");
